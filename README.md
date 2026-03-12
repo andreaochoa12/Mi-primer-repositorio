@@ -1,2 +1,4 @@
 # Mi-primer-repositorio
-Proyecto de práctica grado 11
+Nombre:camila Andrea Ochoa Montaño 
+Grado:11^4
+Institución Educativa Donmatias 
